@@ -1,0 +1,4 @@
+/bin/bash
+bezginmy
+bezginmy:x:1000:1000:bezginmy,,,:/home/bezginmy:/bin/bash
+bezginmy tty1         2016-03-17 13:13
